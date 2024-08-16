@@ -14,7 +14,7 @@ CSS3: For styling the HTML elements and ensuring a responsive design.
 Flexbox & CSS Grid: For layout and alignment of elements.
 
 🌐 Live Demo
-Check out the live version of this project http://spotifyclone09.freewebhostmost.com/
+Check out the live version of this project.
 
 🤝 Contributing
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or create a pull request.
